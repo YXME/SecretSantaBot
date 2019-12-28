@@ -3,7 +3,7 @@
 > A simple way to organize a Secret Santa with your friend on Discord.
 
 ## Informations
-[![](https://img.shields.io/badge/Project%20Status-Ended-red?style=for-the-badge)](https://github.com/EmericJdt/SecretSantaBot/projects/1) [![](https://img.shields.io/badge/Invite%20Bot-Click%20Here-blueviolet?style=for-the-badge)](https://discordapp.com/oauth2/authorize?client_id=657987596785418260&scope=bot&permissions=8)
+[![](https://img.shields.io/badge/Project%20Status-Ended-red?style=for-the-badge)](https://github.com/EmericJdt/SecretSantaBot/projects/1) ![](https://img.shields.io/badge/Programmation%20Language-C%23-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/Language-English-blue?style=for-the-badge) [![](https://img.shields.io/badge/Invite%20Bot-Click%20Here-blueviolet?style=for-the-badge)](https://discordapp.com/oauth2/authorize?client_id=657987596785418260&scope=bot&permissions=8)
 
 Maybe you are not familiar with the concept of Secret Santa ?
 A Secret Santa is a different way to offer Christmas presents, you can do it with your family, friends, etc.
