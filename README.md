@@ -25,7 +25,7 @@ Then all entrants have to add the specific reaction to enter :
 After all entrants are visible in the Entrants list the creator of the Secret Santa has to run the DrawSanta Command :
 > .drawsanta
 
-Finally, everyone will recieve a private message with the name of the chosen one !
+Eventually, everyone will recieve a private message with the name of the chosen one !
 
 
 ## Sources
