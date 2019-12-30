@@ -17,14 +17,16 @@ Simple Workflow
 - No configuration needed.
 
 One of the entrants runs the CreateSanta command :
-> .createSanta [Maximal price of the present] (You can also add a little description after)
-
+> .createsanta [Maximal price of the present] (You can also add a little description after)
+Or
+> .cs [Maximal price of the present] (You can also add a little description after)
 Then all entrants have to add the specific reaction to enter :
 > ![](https://i.imgur.com/GrISYKd.jpg)
 
 After all entrants are visible in the Entrants list the creator of the Secret Santa has to run the DrawSanta Command :
 > .drawsanta
-
+Or
+> .draw
 Finally, everyone will recieve a private message with the name of the chosen one !
 
 
