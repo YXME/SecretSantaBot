@@ -83,6 +83,10 @@ namespace SecretSanta
             {
                 await ReplyAsync("Draw must be issued by the Owner.");
             }
+            else if(Bucket.Entrants.Count <= 1)
+            {
+                await ReplyAsync("There's not enough entrants to draw.");
+            }
             else
             {
                 var Message = await Context.Channel.GetMessageAsync(Bucket.MessageID);
